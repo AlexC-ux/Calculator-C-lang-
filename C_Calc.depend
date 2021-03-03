@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614793337 source:c:\users\eunv2\source\c_coding\c_calc\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
